@@ -37,6 +37,28 @@
         "strawberry syrup"
       ],
       "image" : "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Butter Scotch Bliss",
+      "calories": 450,
+      "type": "ice cream",
+      "ingredients": [
+        "butter scotch syrup",
+        "crunchy praline",
+        "vanilla base"
+      ],
+      "image": "ice-cream-xtra2.svg"
+    },
+    {
+      "name": "Pistachio Perfection",
+      "calories": 370,
+      "type": "ice cream",
+      "ingredients": [
+        "pistachio nuts",
+        "almond extract",
+        "cream"
+      ],
+      "image": "ice-cream-xtra1.svg"
     }
   ]
 }
