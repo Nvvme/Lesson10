@@ -25,6 +25,18 @@
         "clover honey"
       ],
       "image" : "peach-mango.svg"
+    },
+    {
+      "name" :"stupendous strawberry",
+      "calories" : 500,
+      "type" : "ice milk",
+      "ingredients" : [
+        "strawberries",
+        "colored sprinkles",
+        "chocolate shivings",
+        "strawberry syrup"
+      ],
+      "image" : "strawberry-sprinkle.svg"
     }
   ]
 }
